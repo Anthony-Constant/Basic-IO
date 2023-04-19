@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Basic IO</title>
   </head>
   <body>
     <h1>Basic IO</h1>
